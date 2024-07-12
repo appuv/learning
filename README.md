@@ -44,7 +44,6 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Testing | Cucumber School | Videos, Assessment (mcq) | [Cucumber School](https://school.cucumber.io/collections/) | NA | 5 | Shareable link | Lifelong | Free Learning and badges
 | Process | Certiprof | Assessment (mcq) | [Free Certifications](https://certiprof.com/pages/free-new-entry-level-certification) | NA | 6 + 1| Credly | 1-3 Years | Exams.  Life Long Learning Badge can be obtained by requesting 
 | Process | Council of Six Sigma | Assessment (mcq) | [White Belt](https://www.sixsigmacouncil.org/six-sigma-white-belt-certification/) | NA | 1 | PDF| Lifelong | Exams
-| Diverse | Udemy | Videos, Assessment (mcq) | [Udemy](https://www.udemy.com/courses/free/) | NA | 400+ | Shareable Link | Lifelong | Free learning
 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
