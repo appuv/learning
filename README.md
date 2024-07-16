@@ -26,7 +26,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Data | Databricks | Videos, Hands-on, Assessment (mcq) | [Accreditations](https://www.databricks.com/learn/training/certification#accreditations) | NA | 7 | Accredible | 1-2 Years | Free Learning paths and badges
 | Data | Confluent | Assessment (mcq) | [Confluent Fundamentals Accreditation](https://training.confluent.io/learningpath/confluent-fundamentals-accreditation) | NA | 1 | Accredible | Lifelong | Exam
 | Data | dbt Labs | Videos, Assessment (mcq) | [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) | NA | 1 | Accredible | 2 Years | Free Learning and badges
-| Data | neo4j | Assessment (mcq) | [Certifications](https://graphacademy.neo4j.com/certification/) | NA | 2 | Shareable Link, Shareable Profile | Lifelong | The T-shirt redemption isn't functioning properly.
+| Data | neo4j | Videos, Hands-on, Assessment (mcq) | [Categories](https://graphacademy.neo4j.com/categories/) | NA | 10+ | Shareable Link, Shareable Profile | Lifelong | 2 Certifications. The T-shirt redemption isn't functioning properly.
 | Data | MongoDB | Videos | [MongoDB](https://learn.mongodb.com/catalog) | NA | 100+ | Shareable Link | Lifelong | Free learning
 | Data | Oracle | Assessment (mcq) | [Mylearn](https://mylearn.oracle.com/ou/search/?filters=Type-certification&filters=Type-free) | NA | 3+ | 2 Years | Lifelong | Free learning
 | Diverse | Lightbend | Videos, Hands-on, Assessment | [Lightbend](https://academy.lightbend.com/courses?search_query=FILTER_TYPE_FREE/) | NA | ~28 | Credly | Lifelong | Free Learning and badges
