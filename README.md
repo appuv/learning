@@ -43,6 +43,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Salesforce | Trailhead | Videos | [Trailhead](https://trailhead.salesforce.com/) | NA | 100+ | Shareable Profile| Lifelong | Free learning
 | Testing | Cucumber School | Videos, Assessment (mcq) | [Cucumber School](https://school.cucumber.io/collections/) | NA | 5 | Shareable link | Lifelong | Free Learning and badges
 | Process | Certiprof | Assessment (mcq) | [Free Certifications](https://certiprof.com/pages/free-new-entry-level-certification) | NA | 6 + 1| Credly | 1-3 Years | Exams.  Life Long Learning Badge can be obtained by requesting 
+| Process | SCRUMstudy | Assessment (mcq) | [Free Certifications](https://online.vmedu.com/Courses/ExamSchedule) | NA | 7 | Shareable link | Lifelong | Exams
 | Process | Council of Six Sigma | Assessment (mcq) | [White Belt](https://www.sixsigmacouncil.org/six-sigma-white-belt-certification/) | NA | 1 | PDF| Lifelong | Exams
 
 
