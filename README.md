@@ -29,7 +29,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Data | neo4j | Videos, Hands-on, Assessment (mcq) | [Categories](https://graphacademy.neo4j.com/categories/) | NA | 10+ | Shareable Link, Shareable Profile | Lifelong | 2 Certifications. The T-shirt redemption isn't functioning properly.
 | Data | MongoDB | Videos | [MongoDB](https://learn.mongodb.com/catalog) | NA | 100+ | Shareable Link | Lifelong | Free learning
 | Data | Oracle | Assessment (mcq) | [Mylearn](https://mylearn.oracle.com/ou/search/?filters=Type-certification&filters=Type-free) | NA | 3+ | 2 Years | Lifelong | Free learning
-| Diverse | Lightbend | Videos, Hands-on, Assessment | [Lightbend](https://academy.lightbend.com/courses?search_query=FILTER_TYPE_FREE/) | NA | ~28 | Credly | Lifelong | Free Learning and badges
+| Diverse | Akkademy | Videos, Hands-on, Assessment | [Akkademy](https://akkademy.akka.io/learn/catalog) | NA | 18 | Shareable link | Lifelong | Free Learning and badges
 | Diverse | IBM | Videos, Hands-on, Assessment |[Enterprise Design Thinking](https://www.ibm.com/design/thinking/page/badges/core-skills) | NA | 3 | Credly | Lifelong | Free Learning and badges
 | Diverse | IBM |Videos, Assessment (mcq), Acitivites | [Cognitive Class](https://cognitiveclass.ai/badges) | NA | 50+ | Credly | Lifelong | Free Learning and badges
 | Diverse | Cisco | Videos, Assessment (mcq) | [Catalogue](https://skillsforall.com/catalog?category=course) | NA | 10+ | Credly | Lifelong | Free Learning and badges
