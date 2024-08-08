@@ -24,12 +24,10 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Diverse (Cloud, AI, Data) | Google | Videos, Hands-on, Assessment (hands-on and mcq) | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | The labs require credits, which can be obtained by signing up in [arcade](https://go.cloudskillsboost.google/arcade) | 50+ | Credly, Shareable Link, Shareable Profile | Lifelong | [Arcade With Google Cloud](https://cloud.google.com/blog/topics/training-certifications/the-arcade-with-google-cloud-game-helps-boost-cloud-skills) 
 | Data | Snowflake | Videos, Hands-on, Assessment (hands-on and mcq) | [Hands-On-Essential-Track](https://learn.snowflake.com/en/pages/hands-on-essentials-track/) | [Snowflake Student Trial](https://signup.snowflake.com/?trial=student) (limited to 120 days/$400) | 5 | Accredible | Lifelong | The labs are carried out in personal trial account 
 | Data | Databricks | Videos, Hands-on, Assessment (mcq) | [Accreditations](https://www.databricks.com/learn/training/certification#accreditations) | NA | 7 | Accredible | 1-2 Years | Free Learning paths and badges
-| Data | Confluent | Assessment (mcq) | [Confluent Fundamentals Accreditation](https://training.confluent.io/learningpath/confluent-fundamentals-accreditation) | NA | 1 | Accredible | Lifelong | Exam
-| Data | dbt Labs | Videos, Assessment (mcq) | [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) | NA | 1 | Accredible | 2 Years | Free Learning and badges
-| Data | neo4j | Videos, Hands-on, Assessment (mcq) | [Categories](https://graphacademy.neo4j.com/categories/) | NA | 10+ | Shareable Link, Shareable Profile | Lifelong | 2 Certifications. The T-shirt redemption isn't functioning properly.
-| Data | MongoDB | Videos | [MongoDB](https://learn.mongodb.com/catalog) | NA | 100+ | Shareable Link | Lifelong | Free learning
-| Data | Oracle | Assessment (mcq) | [Mylearn](https://mylearn.oracle.com/ou/search/?filters=Type-certification&filters=Type-free) | NA | 3+ | 2 Years | Lifelong | Free learning
-| Diverse | Akkademy | Videos, Hands-on, Assessment | [Akkademy](https://akkademy.akka.io/learn/catalog) | NA | 18 | Shareable link | Lifelong | Free Learning and badges
+| Data (Streaming) | Confluent | Assessment (mcq) | [Confluent Fundamentals Accreditation](https://training.confluent.io/learningpath/confluent-fundamentals-accreditation) | NA | 1 | Accredible | Lifelong | Exam
+| Data (Database) | neo4j | Videos, Hands-on, Assessment (mcq) | [Categories](https://graphacademy.neo4j.com/categories/) | NA | 10+ | Shareable Link, Shareable Profile | Lifelong | 2 Certifications. The T-shirt redemption isn't functioning properly.
+| Data (Database) | MongoDB | Videos | [MongoDB](https://learn.mongodb.com/catalog) | NA | 100+ | Shareable Link | Lifelong | Free learning
+| Data (Database) | Oracle | Assessment (mcq) | [Mylearn](https://mylearn.oracle.com/ou/search/?filters=Type-certification&filters=Type-free) | NA | 3+ | 2 Years | Lifelong | Free learning
 | Diverse | IBM | Videos, Hands-on, Assessment |[Enterprise Design Thinking](https://www.ibm.com/design/thinking/page/badges/core-skills) | NA | 3 | Credly | Lifelong | Free Learning and badges
 | Diverse | IBM |Videos, Assessment (mcq), Acitivites | [Cognitive Class](https://cognitiveclass.ai/badges) | NA | 50+ | Credly | Lifelong | Free Learning and badges
 | Diverse | Cisco | Videos, Assessment (mcq) | [Catalogue](https://skillsforall.com/catalog?category=course) | NA | 10+ | Credly | Lifelong | Free Learning and badges
@@ -38,14 +36,16 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Linux, Devops | The Linux Foundation | Videos, Assessment (mcq) | [The Linux Foundation](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | NA | 50+ | Credly, Shareable Link, Shareable Profile | Lifelong | Free Learning and badges
 | Linux, Devops | KodeKloud | Videos, Hands-on, Assessment (hands-on and mcq) | [KodeKloud](https://kodekloud.com/) | NA | 5+ | Shareable link | Lifelong | Free Learning and badges
 | Devops | Datadog | Videos, Hands-on | [Datadog](https://learn.datadoghq.com/collections) | NA | 50+ | Credly, Shareable link | Lifelong | Free Learning and badges
+| Akka (toolkit) | Akkademy | Videos, Hands-on, Assessment | [Akkademy](https://akkademy.akka.io/learn/catalog) | NA | 18 | Shareable link | Lifelong | Lightbend Academy is now [Akkademy](https://akkademy.akka.io/pages/20/faq)
+| dbt (toolkit) | dbt Labs | Videos, Assessment (mcq) | [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) | NA | 1 | Accredible | 2 Years | Free Learning and badges
 | Security | RangeForce | Hands-on | [Community Theme](https://portal.rangeforce.com/courses/category-type/660bdde2c0aa9a00016a281c) | NA | 5+ | Virtualbadge.io | 1 Year | Free Learning and badges
 | Security | AttackIQ | Videos, Assessment (mcq) | [Catalog](https://www.academy.attackiq.com/catalog) | NA | 3+ | Credly | Lifelong | Free Learning and badges
 | Salesforce | Trailhead | Videos | [Trailhead](https://trailhead.salesforce.com/) | NA | 100+ | Shareable Profile | Lifelong | Free learning
 | SAP | SAP | Videos, Assessment (mcq) | [Record of Achievement](https://learning.sap.com/learning-journeys?page=1&query=Leads+to+Record+of+achievement) | NA | 100+ | Credly | Lifelong | Free learning
-| Testing | Cucumber School | Videos, Assessment (mcq) | [Cucumber School](https://school.cucumber.io/collections/) | NA | 5 | Shareable link | Lifelong | Free Learning and badges
-| Process | Certiprof | Assessment (mcq) | [Free Certifications](https://certiprof.com/pages/free-new-entry-level-certification) | NA | 6 + 1| Credly | 1-3 Years | Exams.  Life Long Learning Badge can be obtained by requesting 
-| Process | SCRUMstudy | Assessment (mcq) | [Free Certifications](https://online.vmedu.com/Courses/ExamSchedule) | NA | 7 | Shareable link | Lifelong | Exams
-| Process | Council of Six Sigma | Assessment (mcq) | [White Belt](https://www.sixsigmacouncil.org/six-sigma-white-belt-certification/) | NA | 1 | PDF| Lifelong | Exams
+| Automation Testing (BDD) | Cucumber School | Videos, Assessment (mcq) | [Cucumber School](https://school.cucumber.io/collections/) | NA | 5 | Shareable link | Lifelong | Free Learning and badges
+| Methodology/Framework | Certiprof | Assessment (mcq) | [Free Certifications](https://certiprof.com/pages/free-new-entry-level-certification) | NA | 6 + 1| Credly | 1-3 Years | Exams.  Life Long Learning Badge can be obtained by requesting 
+| Methodology/Framework | SCRUMstudy | Assessment (mcq) | [Free Certifications](https://online.vmedu.com/Courses/ExamSchedule) | NA | 7 | Shareable link | Lifelong | Exams
+| Methodology | Council of Six Sigma | Assessment (mcq) | [White Belt](https://www.sixsigmacouncil.org/six-sigma-white-belt-certification/) | NA | 1 | PDF| Lifelong | Exams
 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
