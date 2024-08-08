@@ -36,7 +36,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Linux, Devops | The Linux Foundation | Videos, Assessment (mcq) | [The Linux Foundation](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | NA | 50+ | Credly, Shareable Link, Shareable Profile | Lifelong | Free Learning and badges
 | Linux, Devops | KodeKloud | Videos, Hands-on, Assessment (hands-on and mcq) | [KodeKloud](https://kodekloud.com/) | NA | 5+ | Shareable link | Lifelong | Free Learning and badges
 | Devops | Datadog | Videos, Hands-on | [Datadog](https://learn.datadoghq.com/collections) | NA | 50+ | Credly, Shareable link | Lifelong | Free Learning and badges
-| Akka (toolkit) | Akkademy | Videos, Hands-on, Assessment | [Akkademy](https://akkademy.akka.io/learn/catalog) | NA | 18 | Shareable link | Lifelong | Lightbend Academy is now [Akkademy](https://akkademy.akka.io/pages/20/faq)
+| Diverse | Akkademy | Videos, Hands-on, Assessment | [Akkademy](https://akkademy.akka.io/learn/catalog) | NA | 18 | Shareable link | Lifelong | Lightbend Academy is now [Akkademy](https://akkademy.akka.io/pages/20/faq)
 | dbt (toolkit) | dbt Labs | Videos, Assessment (mcq) | [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) | NA | 1 | Accredible | 2 Years | Free Learning and badges
 | Security | RangeForce | Hands-on | [Community Theme](https://portal.rangeforce.com/courses/category-type/660bdde2c0aa9a00016a281c) | NA | 5+ | Virtualbadge.io | 1 Year | Free Learning and badges
 | Security | AttackIQ | Videos, Assessment (mcq) | [Catalog](https://www.academy.attackiq.com/catalog) | NA | 3+ | Credly | Lifelong | Free Learning and badges
