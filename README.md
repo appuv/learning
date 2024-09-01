@@ -43,7 +43,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Salesforce | Trailhead | Videos | [Trailhead](https://trailhead.salesforce.com/) | NA | 100+ | Shareable Profile | Lifelong | Free learning
 | SAP | SAP | Videos, Assessment (mcq) | [Record of Achievement](https://learning.sap.com/learning-journeys?page=1&query=Leads+to+Record+of+achievement) | NA | 100+ | Credly | Lifelong | Free learning
 | Automation Testing (BDD) | Cucumber School | Videos, Assessment (mcq) | [Cucumber School](https://school.cucumber.io/collections/) | NA | 5 | Shareable link | Lifelong | Free Learning and badges
-| Methodology | Certiprof | Assessment (mcq) | [Free Certifications](https://certiprof.com/pages/free-new-entry-level-certification) | NA | 6 + 1| Credly | 1-3 Years | Exams.  Life Long Learning Badge can be obtained by requesting 
+| Methodology | Certiprof | Assessment (mcq) | [Free Certifications](https://certiprof.com/pages/free-new-entry-level-certification) | NA | 7 + 1| Credly | 1-3 Years | Exams.  Life Long Learning Badge can be obtained by requesting 
 | Methodology | SCRUMstudy | Assessment (mcq) | [Free Certifications](https://online.vmedu.com/Courses/ExamSchedule) | NA | 7 | Shareable link | Lifelong | Exams
 
 
