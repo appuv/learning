@@ -63,7 +63,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 
 | Technology | Provider | Format | Link | Prerequisite/Eligibility | Attempts | Exam Validity | Exam Original Cost | Badges | Badge Validity | Notes
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |
-| Devops | Github  | Proctored Assessment (mcq) | [Github Certification](https://examregistration.github.com/login?ReturnUrl=%2Foverview) | Unknown :crystal_ball: | 1 | NA | $99 (₹8253) | Credly | 3 Years | [Github Foundations](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications#github-foundations-certification). At checkout, options include free, 50% off, and full price for different people. [Reference for 100% free](https://ibb.co/c3xkVfJ)
+| Devops | Github  | Proctored Assessment (mcq) | [Github Certification](https://examregistration.github.com/login?ReturnUrl=%2Foverview) | Unknown :crystal_ball: | 1 | November 1, 2024 | $99 (₹8253) | Credly | 3 Years | 4 Certifications. GitHub Foundations, Actions, Administration and Advanced Security. At checkout, options include free, 50% off, and full price for different people. [Reference for 100% free](https://ibb.co/c3xkVfJ)
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
