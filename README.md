@@ -55,7 +55,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 
 | Technology | Provider | Format | Link | Prerequisite | Attempts | Exam Validity | Exam Original Cost | Badges | Badge Validity | Notes
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |
-
+| Data | Astronomer  | Assessment (mcq) | [Airflow Fundamentals](https://academy.astronomer.io/astronomer-certified-apache-airflow-core-exam) | At checkout, use the coupon code : *m-fundamentals-free-cert* | 1 | December 31, 2024 | $150 (₹12,594) | Credly | Lifelong | Once enrolled in the exam, you will have 30 days to complete it. 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
