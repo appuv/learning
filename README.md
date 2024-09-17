@@ -64,6 +64,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Technology | Provider | Format | Link | Prerequisite/Eligibility | Attempts | Exam Validity | Exam Original Cost | Badges | Badge Validity | Notes
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |
 | Devops | Github  | Proctored Assessment (mcq) | [Github Certification](https://examregistration.github.com/login?ReturnUrl=%2Foverview) | Unknown :crystal_ball: | 1 | November 1, 2024 | $99 (₹8253) | Credly | 3 Years | 4 Certifications. GitHub Foundations, Actions, Administration and Advanced Security. At checkout, options include free, 50% off, and full price for different people. [Reference for 100% free](https://ibb.co/c3xkVfJ)
+|  Diverse (Cloud, AI, Data) | Google  | Proctored Assessment (mcq) | [GCP Certifications](https://cloud.google.com/learn/certification) | Register at [innovator](https://cloud.google.com/innovators/getcertified) | 1 | October 1, 2024 | $200 (₹16,755) | Credly/Acredible | 2 Years | 3 Certifications. Cloud Digital Leader, Associate Cloud Engineer & Professional Cloud Architect. The certifications vary per season
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
