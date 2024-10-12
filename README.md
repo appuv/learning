@@ -30,6 +30,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Data (Database) | Oracle | Assessment (mcq) | [Mylearn](https://mylearn.oracle.com/ou/search/?filters=Type-certification&filters=Type-free) | NA | 3+ | 2 Years | Lifelong | Free learning
 | Diverse | IBM | Videos, Hands-on, Assessment |[Enterprise Design Thinking](https://www.ibm.com/design/thinking/page/badges/core-skills) | NA | 3 | Credly | Lifelong | Free Learning and badges
 | Diverse | IBM |Videos, Assessment (mcq), Acitivites | [Cognitive Class](https://cognitiveclass.ai/badges) | NA | 50+ | Credly | Lifelong | Free Learning and badges
+| Diverse | HPE |Videos, Assessment (mcq) | [HPE Learn On-Demand](https://learn.software.hpe.com/) | NA | 50+ | Skilljar | Lifelong | Free Learning and badges
 | Diverse | Cisco | Videos, Assessment (mcq) | [Catalogue](https://skillsforall.com/catalog?category=course) | NA | 10+ | Credly | Lifelong | Free Learning and badges
 | Diverse | freeCodeCamp |Videos, Assessment (mcq) | [Learn to Code](https://www.freecodecamp.org/learn) | NA | 10+ | Shareable Link, Shareable Profile | Lifelong | Foundational C# with Microsoft (Professional)
 | Diverse | HackerRank | Assessment (coding challenge) | [Get Certified](https://www.hackerrank.com/skills-verification) | NA | 24 | Shareable Link, Shareable Profile | Lifelong | Exams
@@ -64,7 +65,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Technology | Provider | Format | Link | Prerequisite/Eligibility | Attempts | Exam Validity | Exam Original Cost | Badges | Badge Validity | Notes
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |
 | Devops | Github  | Proctored Assessment (mcq) | [Github Certification](https://examregistration.github.com/login?ReturnUrl=%2Foverview) | Unknown :crystal_ball: | 1 | November 1, 2024 | $99 (₹8253) | Credly | 3 Years | 4 Certifications. GitHub Foundations, Actions, Administration and Advanced Security. At checkout, options include free, 50% off, and full price for different people. [Reference for 100% free](https://ibb.co/c3xkVfJ)
-|  Diverse (Cloud, AI, Data) | Google  | Proctored Assessment (mcq) | [GCP Certifications](https://cloud.google.com/learn/certification) | Register at [innovator](https://cloud.google.com/innovators/getcertified) | 1 | October 1, 2024 | $200 (₹16,755) | Credly/Acredible | 2 Years | 3 Certifications. Cloud Digital Leader, Associate Cloud Engineer & Professional Cloud Architect. The certifications vary per season
+
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
@@ -75,6 +76,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |
 | Cloud | Google | Proctored Assessment (mcq) | [Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader) | Be one of the first 20 people to complete the challenge [The Arcade Certification Zone Aug 2024](https://www.cloudskillsboost.google/games/5395?utm_source=qwiklabs&utm_medium=lp&utm_campaign=cert-zone-august-arcade24) |  1 | NA | $99 (₹8253) | Credly/Accredible | 3 Years | Watch out for the 15th of each month for new challenges. Securing the voucher is tough.
 Gen AI | Oracle |  Proctored Assessment (mcq) | [OCI 2024 Gen AI Promotion](https://learn.oracle.com/ords/training/dl4_activation.activateOrder?key=BE175977FC4529C7&destination=https://mylearn.oracle.com/ou/learning-path/become-a-oci-generative-ai-professional/136227) | NA | 2 | July 31, 2024 | $245 (₹20,379) | Shareable link. Badges will be present in the [Oracle Dashboard](https://mylearn.oracle.com/ou/profile-dashboard/Achievements) | 2 Years | Please refer the Oracle [blog](https://blogs.oracle.com/oracleuniversity/post/announcing-oci-2024-generative-ai-professional-certification-and-course) for more details.
+| Diverse (Cloud, AI, Data) | Google  | Proctored Assessment (mcq) | [GCP Certifications](https://cloud.google.com/learn/certification) | Register at [innovator](https://cloud.google.com/innovators/getcertified) | 1 | October 1, 2024 | $200 (₹16,755) | Credly/Acredible | 2 Years | 3 Certifications. Cloud Digital Leader, Associate Cloud Engineer & Professional Cloud Architect. The certifications vary per season
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 # Contribution Guidelines  📚
