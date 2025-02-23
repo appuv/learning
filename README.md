@@ -56,7 +56,6 @@ Welcome to the page, your go-to resource for discovering free training and badge
 
 | Technology | Provider | Format | Link | Prerequisite | Attempts | Exam Validity | Exam Original Cost | Badges | Badge Validity | Notes
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |
-| Data | Astronomer  | Assessment (mcq) | [Airflow Fundamentals](https://academy.astronomer.io/astronomer-certified-apache-airflow-core-exam) | At checkout, use the coupon code : *m-fundamentals-free-cert* | 1 | December 31, 2024 | $150 (₹12,594) | Credly | Lifelong | Once enrolled in the exam, you will have 30 days to complete it. 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
@@ -64,7 +63,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 
 | Technology | Provider | Format | Link | Prerequisite/Eligibility | Attempts | Exam Validity | Exam Original Cost | Badges | Badge Validity | Notes
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |
-| Devops | Github  | Proctored Assessment (mcq) | [Github Certification](https://examregistration.github.com/login?ReturnUrl=%2Foverview) | Unknown :crystal_ball: | 1 | November 1, 2024 | $99 (₹8253) | Credly | 3 Years | 4 Certifications. GitHub Foundations, Actions, Administration and Advanced Security. At checkout, options include free, 50% off, and full price for different people. [Reference for 100% free](https://ibb.co/c3xkVfJ)
+
 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
@@ -77,6 +76,9 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Cloud | Google | Proctored Assessment (mcq) | [Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader) | Be one of the first 20 people to complete the challenge [The Arcade Certification Zone Aug 2024](https://www.cloudskillsboost.google/games/5395?utm_source=qwiklabs&utm_medium=lp&utm_campaign=cert-zone-august-arcade24) |  1 | NA | $99 (₹8253) | Credly/Accredible | 3 Years | Watch out for the 15th of each month for new challenges. Securing the voucher is tough.
 Gen AI | Oracle |  Proctored Assessment (mcq) | [OCI 2024 Gen AI Promotion](https://learn.oracle.com/ords/training/dl4_activation.activateOrder?key=BE175977FC4529C7&destination=https://mylearn.oracle.com/ou/learning-path/become-a-oci-generative-ai-professional/136227) | NA | 2 | July 31, 2024 | $245 (₹20,379) | Shareable link. Badges will be present in the [Oracle Dashboard](https://mylearn.oracle.com/ou/profile-dashboard/Achievements) | 2 Years | Please refer the Oracle [blog](https://blogs.oracle.com/oracleuniversity/post/announcing-oci-2024-generative-ai-professional-certification-and-course) for more details.
 | Diverse (Cloud, AI, Data) | Google  | Proctored Assessment (mcq) | [GCP Certifications](https://cloud.google.com/learn/certification) | Register at [innovator](https://cloud.google.com/innovators/getcertified) | 1 | October 1, 2024 | $200 (₹16,755) | Credly/Acredible | 2 Years | 3 Certifications. Cloud Digital Leader, Associate Cloud Engineer & Professional Cloud Architect. The certifications vary per season
+| Devops | Github  | Proctored Assessment (mcq) | [Github Certification](https://examregistration.github.com/login?ReturnUrl=%2Foverview) | Unknown :crystal_ball: | 1 | November 1, 2024 | $99 (₹8253) | Credly | 3 Years | 4 Certifications. GitHub Foundations, Actions, Administration and Advanced Security. At checkout, options include free, 50% off, and full price for different people. [Reference for 100% free](https://ibb.co/c3xkVfJ)
+| Data | Astronomer  | Assessment (mcq) | [Airflow Fundamentals](https://academy.astronomer.io/astronomer-certified-apache-airflow-core-exam) | At checkout, use the coupon code : *m-fundamentals-free-cert* | 1 | December 31, 2024 | $150 (₹12,594) | Credly | Lifelong | Once enrolled in the exam, you will have 30 days to complete it. 
+
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 # Contribution Guidelines  📚
