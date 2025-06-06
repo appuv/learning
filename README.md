@@ -18,7 +18,7 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Technology | Provider | Format | Link | Prerequisite | Count |Badges | Badge Validity | Notes |
 | --- | --- | --- | --- | --- | --- |--- |--- |--- |
 | Diverse (Cloud, AI, Data) | Microsoft | Videos, Assessment (mcq) | [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/) | NA | 100+ | Shareable Link, Shareable Profile | Lifelong | Free Learning paths
-| Diverse (Cloud, AI, Data) | Microsoft | Hands-on | [Applied Skills]([https://learn.microsoft.com/en-us/training/browse/](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)) | NA | 30+ | Shareable Link, Shareable Profile | Lifelong | Free Learning paths
+| Diverse (Cloud, AI, Data) | Microsoft | Hands-on | [Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)) | NA | 30+ | Shareable Link, Shareable Profile | Lifelong | Free Learning paths
 | Diverse (Cloud, AI, Data) | AWS | Videos, Hands-on, Assessment (mcq) | [AWS Educate](https://aws.amazon.com/education/awseducate/) | NA | 12 | Credly | Lifelong | Free Learning and badges
 | Diverse (Cloud, AI, Data) | AWS | Videos, Hands-on, Assessment (mcq) | [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) | NA | 1 | Credly | Lifelong | Role-playing simulation game. Only Cloud Practitioner is free.
 | Diverse (Cloud, AI, Data) | AWS | Videos, Hands-on, Assessment (mcq) | [AWS Skill Builder](https://explore.skillbuilder.aws/learn/catalog) | NA | 16 | Credly | Lifelong | Assesments are limited to 24 hours for retry 
