@@ -29,9 +29,9 @@ Welcome to the page, your go-to resource for discovering free training and badge
 | Data (Database) | neo4j | Videos, Hands-on, Assessment (mcq) | [Categories](https://graphacademy.neo4j.com/categories/) | NA | 10+ | Shareable Link, Shareable Profile | Lifelong | 2 Certifications. The T-shirt redemption isn't functioning properly.
 | Data (Database) | MongoDB | Videos | [MongoDB](https://learn.mongodb.com/catalog) | NA | 100+ | Shareable Link | Lifelong | Free learning
 | Data (Database) | Oracle | Assessment (mcq) | [Mylearn](https://mylearn.oracle.com/ou/search/?filters=Type-certification&filters=Type-free) | NA | 3+ | 2 Years | Lifelong | Free learning
-| Diverse | IBM | Videos, Hands-on, Assessment |[Enterprise Design Thinking](https://www.ibm.com/design/thinking/page/badges/core-skills) | NA | 3 | Credly | Lifelong | Free Learning and badges
+| Diverse | IBM | Videos, Hands-on, Assessment |[Enterprise Design Thinking](https://www.ibm.com/training/enterprise-design-thinking/courses) | NA | 3 | Credly | Lifelong | Free Learning and badges
 | Diverse | IBM |Videos, Assessment (mcq), Acitivites | [Cognitive Class](https://cognitiveclass.ai/badges) | NA | 50+ | Credly | Lifelong | Free Learning and badges
-| Diverse | HPE |Videos, Assessment (mcq) | [HPE Learn On-Demand](https://learn.software.hpe.com/) | NA | 50+ | Skilljar | Lifelong | Free Learning and badges
+| Diverse | HPE |Videos, Assessment (mcq) | [HPE Certification and Learning](https://certification-learning.hpe.com/tr/) | NA | 50+ | Skilljar | Lifelong | Free Learning and badges
 | Diverse | Cisco | Videos, Assessment (mcq) | [Catalogue](https://www.netacad.com/catalogs/learn?category=course) | NA | 10+ | Credly | Lifelong | Free Learning and badges
 | Diverse | freeCodeCamp |Videos, Assessment (mcq) | [Learn to Code](https://www.freecodecamp.org/learn) | NA | 10+ | Shareable Link, Shareable Profile | Lifelong | Foundational C# with Microsoft (Professional)
 | Diverse | HackerRank | Assessment (coding challenge) | [Get Certified](https://www.hackerrank.com/skills-verification) | NA | 24 | Shareable Link, Shareable Profile | Lifelong | Exams
